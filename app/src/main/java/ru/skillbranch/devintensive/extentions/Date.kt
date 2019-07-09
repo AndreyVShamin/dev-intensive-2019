@@ -18,10 +18,10 @@ fun Date.format(pattern:String="HH:mm:ss dd.MM.yy"):String {
 fun Date.add(value:Int, units: TimeUnits = TimeUnits.SECOND) : Date{
     var time = this.time
     time += when(units){
-        TimeUnits.SECOND  -> value * SECOND
-        TimeUnits.MINUTE  -> value * MINUTE
-        TimeUnits.HOUR  -> value * HOUR
-        TimeUnits.DAY  -> value * DAY
+        TimeUnits.SECOND -> value * SECOND
+        TimeUnits.MINUTE -> value * MINUTE
+        TimeUnits.HOUR -> value * HOUR
+        TimeUnits.DAY -> value * DAY
     }
     this.time = time
     return this
