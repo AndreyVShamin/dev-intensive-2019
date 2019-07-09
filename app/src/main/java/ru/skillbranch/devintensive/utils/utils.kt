@@ -10,4 +10,14 @@ object utils {
             if (lastName == "") lastName = null
         return firstName to lastName
     }
+
+    fun transliteration(payload: String, divider:String = " ") : String{
+        //Stub function
+        return "Preved Medved"
+    }
+
+    fun toInitials(firstName: String?, lastName: String?): String? {
+        // Stub function
+        return "PM"
+    }
 }

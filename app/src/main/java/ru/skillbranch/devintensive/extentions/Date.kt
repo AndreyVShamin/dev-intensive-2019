@@ -27,6 +27,11 @@ fun Date.add(value:Int, units: TimeUnits = TimeUnits.SECOND) : Date{
     return this
 }
 
+fun Date.humanizeDiff(date: Date = Date()): String {
+    //Stub function
+    return "Скоро 123"
+}
+
 enum class TimeUnits{
     SECOND,
     MINUTE,
