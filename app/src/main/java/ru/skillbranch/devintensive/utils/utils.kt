@@ -12,13 +12,14 @@ object Utils {
         return firstName to lastName
     }
 
+
     fun transliteration(payload: String, divider:String = " ") : String{
-        //Stub function
+        //Stub function 1
         return "Preved Medved"
     }
 
     fun toInitials(firstName: String?, lastName: String?): String? {
-        // Stub function
+        // Stub function 2
         return "PM"
     }
 }
