@@ -36,7 +36,7 @@ class ExampleUnitTest {
 
     @Test
     fun test_factory(){
-       // User.Factory.makeUser("John Sane")
+       //  User.Factory.makeUser("John Sane")
        // var user = User.makeUser("John Sane")
        // var user1 = User.makeUser("John Wick")
        // var user2 = User.makeUser("John Silverhand")
