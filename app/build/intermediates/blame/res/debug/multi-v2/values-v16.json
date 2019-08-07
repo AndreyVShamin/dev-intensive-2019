@@ -4,17 +4,7 @@
             "outputFile": "C:\\projects\\dev-intensive-2019\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\lena\\.gradle\\caches\\transforms-2\\files-2.1\\85649735b3bb63ffd530cba761cbfab6\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\lena\\.gradle\\caches\\transforms-2\\files-2.1\\d3d589088fbac2075d952e3d8843cfd5\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\lena\\.gradle\\caches\\transforms-2\\files-2.1\\a35be406408c96effd20afa356826205\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,6 +20,16 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lena\\.gradle\\caches\\transforms-2\\files-2.1\\5d1c750c6575a39fc41273c4106f52e7\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]

@@ -4,7 +4,26 @@
             "outputFile": "C:\\projects\\dev-intensive-2019\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\lena\\.gradle\\caches\\transforms-2\\files-2.1\\d3d589088fbac2075d952e3d8843cfd5\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\lena\\.gradle\\caches\\transforms-2\\files-2.1\\db28017d7fa37ab7389374da5c384f98\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "2646",
+                        "endLines": "39",
+                        "endColumns": "12",
+                        "endOffsets": "2791"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\lena\\.gradle\\caches\\transforms-2\\files-2.1\\a35be406408c96effd20afa356826205\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
